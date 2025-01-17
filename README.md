@@ -1,3 +1,31 @@
+1. Social media apps are applications which can either be downloaded and stored on your phone or tablet, or streamed through your internet browser. 
+
+
+
+ 2. Social media apps generally involve messaging, photo-sharing and interactive content. 
+
+
+
+ 3. This application designed to allow people to share content quickly, efficiently, and in real-time. Anyone with internet access can sign up for a social media account. 
+
+
+
+ 4. They can use the account to share whatever content they choose to, and the content they share reaches to anyone who visits their page or profile. 
+
+
+
+5. User can like the post, follow new users and make friends.
+
+
+
+6. Search new users to interact with them.
+
+
+
+7. Users can edit their profile by go into Edit Profile, can change their profile picture. 
+
+
+
 Functionalities: 
 • Sign In & Sign Out 
 • Data Security and Message Encryption 
